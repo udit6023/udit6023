@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://codertrek.blogspot.com/](https://codertrek.blogspot.com/)
 
-- 💬 Ask me about **flutter,android**
+- 💬 Ask me about **flutter,android,ios**
 
 - 📫 How to reach me **uditsoni6023@gmail.com**
 
